@@ -1,12 +1,11 @@
 ## Hi there 👋
 
-<h3 align="center">A passionate data analyst from India</h3>
+<h3 align="center">An aspiring Data Scientist from India</h3>
 
-- 🔭 I’m currently working on **Netflix Data Analysis**
 
 - 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **Excel, MySQL, Python and Statistics**
+- 💬 Ask me about **Excel, MySQL, Python,R and Statistics**
 
 - 📫 How to reach me **deeksharani4@gmail.com**
 
